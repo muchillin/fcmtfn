@@ -14,7 +14,7 @@ authors:
   affiliation: 1
 bibliography: paper.bib
 affiliations:
-- name: National University of San Marcos, Lima, Peru
+- name: National University of San Marcos, Lima, Perú
   index: 1
 ---
 
